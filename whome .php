@@ -6,6 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    
+ <form action="welcome1 .php" mwthod="post"> 
+    Name:<input type= "text" name="name"><br>
+    E-mail: <input type="text" name="email"><br><br>
+    <input type="submit">
+</form>
 </body>
 </html>
